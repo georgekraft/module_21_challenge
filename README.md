@@ -1,6 +1,6 @@
 # module_21_challenge
 
-**The following screenshots show the solidity files being compiled and then deployed (unsuccessfully though)**
+**The following screenshots show how the solidity files were successfully compiled and then deployed (unsuccessfully though)**
 
 **KaseiCoin.sol compiled**
 
